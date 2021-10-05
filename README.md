@@ -10,3 +10,7 @@ mirror
 ## `Version 2`
 
 You need `sd`, `rg`...
+
+## `Raku Version`
+
+You need `rakudo`
