@@ -7,9 +7,9 @@ mirror
 
 `pacman -Suy` first
 
-## `Version 2`
+## `Version 2` (`Rust version`)
 
-You need `sd`, `rg`...
+You need `sd`, `rg`, `huniq`...
 
 ## `Raku Version`
 
