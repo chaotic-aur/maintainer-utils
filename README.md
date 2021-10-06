@@ -14,3 +14,7 @@ You need `sd`, `rg`, `huniq`...
 ## `Raku Version`
 
 You need `rakudo`
+
+## `Nushell Version`
+
+You need `nushell`
